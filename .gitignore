@@ -1,0 +1,13 @@
+# Emacs
+*~
+.#*
+*.swp
+*.#*
+
+# Also ignore Emacs auto-save files (start with .#)
+.#*
+
+# IDEs / other editors
+.idea/
+.vscode/
+*.sublime-workspace
